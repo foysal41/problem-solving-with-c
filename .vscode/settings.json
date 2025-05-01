@@ -4,6 +4,7 @@
         "*.ndjson": "jsonl",
         "*.dbclient-js": "javascript",
         "k_i_love_strings": "c",
-        "limits": "c"
+        "limits": "c",
+        "limits.h": "c"
     }
 }
